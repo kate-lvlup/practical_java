@@ -1,0 +1,16 @@
+# Classes. Encapsulation. Exceptions
+## Task1
+
+Suppose we have the following class:
+
+
+![image](https://github.com/user-attachments/assets/e57611ef-f749-42b8-9d40-f986f368fabf)
+
+Create a new version of the **Circle** class where the **draw** method will be overloaded four times:
+
+1. The version without parameters.
+2. Using the one parameter **color** of **String** type.
+3. Using the one parameter **scale** of **float** type.
+4. Using two parameters **color** and **scale** of **String** and **float** type.
+
+> For correct passing of all tests don't use print and println methods in your code.
