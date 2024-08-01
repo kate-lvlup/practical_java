@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554f25df-76c5-4e3c-b200-e4c8620dc4b3" name="Changes" comment="Task 1 Class Circle">
-      <change beforePath="$PROJECT_DIR$/src/main/java/jom/com/softserve/s1/task2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jom/com/softserve/s1/task2/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jom/com/softserve/s1/task2/Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jom/com/softserve/s1/task2/Task2Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="554f25df-76c5-4e3c-b200-e4c8620dc4b3" name="Changes" comment="Task 1 Class Circle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722494266844</updated>
-      <workItem from="1722494268337" duration="6532000" />
+      <workItem from="1722494268337" duration="6896000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 Class Circle">
       <created>1722495915513</created>
